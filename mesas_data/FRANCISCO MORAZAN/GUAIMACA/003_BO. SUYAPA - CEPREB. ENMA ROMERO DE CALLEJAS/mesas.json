@@ -1,0 +1,86 @@
+[
+  {
+    "publicada": 1,
+    "numero": 11791,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01080060100311791",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/006/01/003/E14_P01_08_006_001_00_003_11791_4273.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064831Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=e9cf4f8ba49c8c6ac6da4f72d1f700c3c40eaff6291376418ccc6705d06229ce",
+    "etiquetas": [
+      "Inconsistencia",
+      "Pendiente de Revisión"
+    ],
+    "zona": "01",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 11792,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01080060100311792",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/006/01/003/E14_P01_08_006_001_00_003_11792_4273.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064831Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=e8dbb1b31f9420d65e78c4a0f5e28c24bf31e768b5a7c01f423c8df2d5da1dac",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "01",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 11793,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01080060100311793",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/006/01/003/E14_P01_08_006_001_00_003_11793_4273.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064831Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=74a2a48949ee82776490608e4a200970f229f4f9eb675c311b2f53691d6c0e81",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "01",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 11794,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01080060100311794",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/006/01/003/E14_P01_08_006_001_00_003_11794_4274.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064831Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=3c9954ecd8703c9434362c1c0433b3ae72c235797e619455a5cde0b243d35bd6",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "01",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 11795,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01080060100311795",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/006/01/003/E14_P01_08_006_001_00_003_11795_4274.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064831Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=3f392e0bca517325d2e33e6918b973b37f91fdd3173344b0f4116301d985b207",
+    "etiquetas": [
+      "Inconsistencia",
+      "Pendiente de Revisión"
+    ],
+    "zona": "01",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 11796,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01080060100311796",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/006/01/003/E14_P01_08_006_001_00_003_11796_4274.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064831Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=7cbbab98d63b3ae9d4c796bfaf3e097f4b934381ac42b9c15cbdd14a1140808c",
+    "etiquetas": [
+      "Inconsistencia",
+      "Pendiente de Revisión"
+    ],
+    "zona": "01",
+    "needs_download": false
+  }
+]

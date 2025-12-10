@@ -1,0 +1,44 @@
+[
+  {
+    "publicada": 1,
+    "numero": 1301,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "0102008020081301",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/02/0208013010041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T063748Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=980f99cb74d6142cacd3fc5556fe1b2093fb270311909037a7d7e453953629bf",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 1302,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "0102008020081302",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/02/0208013020041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T063748Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=c0a9d257e010ab249fd8e09cfef01b916bd425ae61444055997377bcc09e98af",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 1303,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "0102008020081303",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/02/0208013030041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T063748Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=38882108741b37f27ca6c37fad8a9296b2565e7200fa010bb650b2ff3573129c",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  }
+]

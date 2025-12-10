@@ -1,0 +1,44 @@
+[
+  {
+    "publicada": 1,
+    "numero": 17980,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01180010202717980",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/18/001/02/027/E14_P01_18_001_002_00_027_17980_7181.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T070047Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=35c8df8865dc278dd72fb95fb7ea50e65f0bb8f6bd6978bc86558a2b0230a195",
+    "etiquetas": [
+      "Inconsistencia",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 17981,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01180010202717981",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/18/001/02/027/E14_P01_18_001_002_00_027_17981_7181.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T070047Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=d5f14f846768005506da47bc92dab014752cb7bc8bdd6bb77f49e58c44862580",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 17982,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01180010202717982",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/18/001/02/027/E14_P01_18_001_002_00_027_17982_7181.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T070047Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=6fe2a4eb741cc7a636524326d430e76b7ac3f48932bd46e0dad2e4700c663b7a",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  }
+]

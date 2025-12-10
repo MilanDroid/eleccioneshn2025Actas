@@ -1,0 +1,57 @@
+[
+  {
+    "publicada": 1,
+    "numero": 6398,
+    "escrutado": false,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "0105010020196398",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/010/02/019/E14_P01_05_010_002_00_019_6398_2358.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064312Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=704bc987e96d186a5e016a679ab31870520427ca5e481a315ec685d5d2101581",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 6399,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "0105010020196399",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/010/02/019/E14_P01_05_010_002_00_019_6399_2358.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064312Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=2fac63e6348c350d299ac76cda29920c5c250e02b7aab29ea0dd229136df3a02",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 0,
+    "numero": 6400,
+    "escrutado": false,
+    "digitalizado": 0,
+    "id_informacion_mesa_corporacion": "0105010020196400",
+    "nombre_archivo": "",
+    "etiquetas": [
+      "Pendiente de transmisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 6401,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "0105010020196401",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/05/010/02/019/E14_P01_05_010_002_00_019_6401_2358.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064312Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=f2ed4fe98bb9bf9e5d95ac49e95ad84eabd3f43665f2d27735df34df40f40cef",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  }
+]

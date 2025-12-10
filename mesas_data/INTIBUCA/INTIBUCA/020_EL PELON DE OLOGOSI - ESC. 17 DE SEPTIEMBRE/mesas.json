@@ -1,0 +1,44 @@
+[
+  {
+    "publicada": 1,
+    "numero": 12980,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01100060202012980",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/10/006/02/020/E14_P01_10_006_002_00_020_12980_4812.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T065010Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=5a3a0b539882a8082b5abc31a0a2b03609cfb33349d21ca365d00c6301f9ed5b",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 12981,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01100060202012981",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/10/006/02/020/E14_P01_10_006_002_00_020_12981_4812.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T065010Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=9f361f66525f622c3bae2c244b8463f208fd11a624a112d9debac9c2ec9dabc3",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 12982,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01100060202012982",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/10/006/02/020/E14_P01_10_006_002_00_020_12982_4812.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T065010Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=62195df2b81cd1d96c67656adef1f0cab091480ed0e508ca357cc182afa74eaf",
+    "etiquetas": [
+      "Inconsistencia",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  }
+]

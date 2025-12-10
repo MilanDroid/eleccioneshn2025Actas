@@ -1,0 +1,16 @@
+[
+  {
+    "publicada": 1,
+    "numero": 12568,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01080280200512568",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/028/02/005/E14_P01_08_028_002_00_005_12568_4639.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064937Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=97509e47b4ac314548de7bebc71dbf46febe19f607adf20ecb3c69b2e3b2262f",
+    "etiquetas": [
+      "Inconsistencia",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  }
+]

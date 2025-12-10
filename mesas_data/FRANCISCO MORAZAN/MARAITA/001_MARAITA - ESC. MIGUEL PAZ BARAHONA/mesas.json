@@ -1,0 +1,44 @@
+[
+  {
+    "publicada": 1,
+    "numero": 11937,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01080100200111937",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/010/02/001/E14_P01_08_010_002_00_001_11937_4353.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064846Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=2f2c6f428dc6086e37c75d985b2175103ff8152d64b01aa533fba800d8397916",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 11938,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01080100200111938",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/010/02/001/E14_P01_08_010_002_00_001_11938_4353.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064846Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=83ed3f1a3efe642981cb017e41e181d7de04e96feb84016ef8551c64057980ed",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 11939,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01080100200111939",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/08/010/02/001/E14_P01_08_010_002_00_001_11939_4353.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064846Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=65b9e755d564c5af0d9f1c2b648612531d8a5e6a427a4c045abd9b3e3b10134f",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  }
+]

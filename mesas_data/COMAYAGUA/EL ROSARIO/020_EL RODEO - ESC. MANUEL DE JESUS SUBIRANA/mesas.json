@@ -1,0 +1,16 @@
+[
+  {
+    "publicada": 1,
+    "numero": 2020,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "0103003020202020",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/03/003/02/020/E14_P01_03_003_002_00_020_2020_0779.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T063842Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=d28eb313d6dd276f7e1d151d599363f4cf55804b94586be1612ffd10ee467bc8",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  }
+]

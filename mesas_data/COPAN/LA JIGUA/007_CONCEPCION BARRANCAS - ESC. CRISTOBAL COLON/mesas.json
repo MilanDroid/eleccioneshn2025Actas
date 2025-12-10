@@ -1,0 +1,41 @@
+[
+  {
+    "publicada": 0,
+    "numero": 3273,
+    "escrutado": false,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "0104011020073273",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/011/02/007/E14_P01_04_011_002_00_007_3273_1347.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064035Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=0b405513ccae8e9f765892ad1a7b8377d8ebd056bf5bcd729ef9b5f5a6900a57",
+    "etiquetas": [
+      "Pendiente de transmisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 0,
+    "numero": 3274,
+    "escrutado": false,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "0104011020073274",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/011/02/007/E14_P01_04_011_002_00_007_3274_1347.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064035Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=4cfb0db0cc2759f1943edd6417479546752ff2cd47de78d46bab79a93b8266a1",
+    "etiquetas": [
+      "Pendiente de transmisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 0,
+    "numero": 3275,
+    "escrutado": false,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "0104011020073275",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/011/02/007/E14_P01_04_011_002_00_007_3275_1347.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064035Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=63ed63d34db84d40db740ce5dba2bedfafba94546a5ae0bd012e4c2cb788eb19",
+    "etiquetas": [
+      "Pendiente de transmisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  }
+]

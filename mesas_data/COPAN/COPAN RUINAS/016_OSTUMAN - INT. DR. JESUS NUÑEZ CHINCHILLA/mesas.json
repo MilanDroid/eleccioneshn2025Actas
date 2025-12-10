@@ -1,0 +1,44 @@
+[
+  {
+    "publicada": 1,
+    "numero": 3009,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "0104004020163009",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/004/02/016/E14_P01_04_004_002_00_016_3009_1207.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064007Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=edcb75eb61cc7ab7e0d496baf215d2a5b5bd9ea0e33ee5aaf08bf37c833cd63a",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 3010,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "0104004020163010",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/004/02/016/E14_P01_04_004_002_00_016_3010_1207.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064007Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=d9bf0a88cfd6de421bed5549a0b8fb64047cba3c60d6a41ffbc2f20969cb4e2e",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 3011,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "0104004020163011",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/04/004/02/016/E14_P01_04_004_002_00_016_3011_1207.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T064007Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=a5b9a3a9c4b91e271b40b5271add9141762b743073c7200675910bde24b715e6",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  }
+]

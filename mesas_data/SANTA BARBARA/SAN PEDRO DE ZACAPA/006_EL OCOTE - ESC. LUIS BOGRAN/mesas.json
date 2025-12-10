@@ -1,0 +1,30 @@
+[
+  {
+    "publicada": 1,
+    "numero": 17222,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01160230200617222",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/16/023/02/006/E14_P01_16_023_002_00_006_17222_6827.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T065755Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=5414b68e4bb7f287a1b7340c5fd3c40a4c94e633f2e9357f8a23cecd8f21add1",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  },
+  {
+    "publicada": 1,
+    "numero": 17223,
+    "escrutado": true,
+    "digitalizado": 1,
+    "id_informacion_mesa_corporacion": "01160230200617223",
+    "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/16/023/02/006/E14_P01_16_023_002_00_006_17223_6827.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251210T065755Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=a1b160acdf145689c3ec58d142a60c15f7d05b2ef3285f2ab82025806a22f1e1",
+    "etiquetas": [
+      "Divulgada Correctamente",
+      "Pendiente de Revisión"
+    ],
+    "zona": "02",
+    "needs_download": false
+  }
+]

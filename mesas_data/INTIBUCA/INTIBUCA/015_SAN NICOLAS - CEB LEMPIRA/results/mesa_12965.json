@@ -1,0 +1,79 @@
+{
+  "mesa_numero": 12965,
+  "mesa_id": "01100060201512965",
+  "dept_code": "10",
+  "municipio_code": "006",
+  "zona_code": "00",
+  "centro_id": "015",
+  "votes": {
+    "fecha_corte": "2025-12-06 15:00:00.0",
+    "candidatos": [
+      {
+        "cddto_codigo": "000",
+        "cddto_nombres": "MARIO ENRIQUE RIVERA CALLEJAS",
+        "cddto_apellidos": "",
+        "parpo_id": "0001",
+        "parpo_nombre": "PARTIDO DEMOCRATA CRISTIANO DE HONDURAS",
+        "parpo_color": "#009F3C",
+        "parpo_link_logo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/Logos/Partidos/DC.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T210846Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=fb66ba818eee0d7b0c5fc924792f2de785922a88f8838d5840f8c4e664874893",
+        "cddto_link_logo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/Logos/Candidatos/000_0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T210846Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=606b7eda0f3a6515a99cd787c8d85aae6d11d4afd26fb523010eab53138b4f13",
+        "votos": 0,
+        "integrantes": [],
+        "parpo_id_int": 1
+      },
+      {
+        "cddto_codigo": "000",
+        "cddto_nombres": "RIXI RAMONA MONCADA GODOY",
+        "cddto_apellidos": "",
+        "parpo_id": "0002",
+        "parpo_nombre": "PARTIDO LIBERTAD Y REFUNDACION",
+        "parpo_color": "#ff4800",
+        "parpo_link_logo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/Logos/Partidos/PARTIDOLIBERTADYREFUNDACION.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T210846Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=8f0af287e01667e092801c941b80d0b4b2cd12b6c4af38638dcc9a553554a4e3",
+        "cddto_link_logo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/Logos/Candidatos/000_0002.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T210846Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=30794e2e88c91b372323c4081228fd9c1009e2fba4db53f81046b914c8cfc60f",
+        "votos": 0,
+        "integrantes": [],
+        "parpo_id_int": 2
+      },
+      {
+        "cddto_codigo": "000",
+        "cddto_nombres": "JORGE NELSON AVILA GUTIERREZ",
+        "cddto_apellidos": "",
+        "parpo_id": "0003",
+        "parpo_nombre": "PARTIDO INNOVACION Y UNIDAD SOCIAL DEMOCRATA",
+        "parpo_color": "#F2A900",
+        "parpo_link_logo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/Logos/Partidos/PARTIDOINNOVACIONYUNIDADSOCIALDEM%C3%93CRATA.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T210846Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=96150ff5dc3212521510317a8fda49a352f4c162d07a1b9997ef13af159ba573",
+        "cddto_link_logo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/Logos/Candidatos/000_0003.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T210846Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=251275a158477c2a8acaa4d66d2dfad2d0828bdc922425946b8563cda3c17c17",
+        "votos": 0,
+        "integrantes": [],
+        "parpo_id_int": 3
+      },
+      {
+        "cddto_codigo": "000",
+        "cddto_nombres": "SALVADOR ALEJANDRO CESAR NASRALLA SALUM",
+        "cddto_apellidos": "",
+        "parpo_id": "0004",
+        "parpo_nombre": "PARTIDO LIBERAL DE HONDURAS",
+        "parpo_color": "#d42225",
+        "parpo_link_logo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/Logos/Partidos/PARTIDOLIBERALDEHONDURAS.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T210846Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=01a4c6d855d886a6bd3f239e815863255513353045a2a9eb180bcbdae3ca525d",
+        "cddto_link_logo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/Logos/Candidatos/000_0004.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T210846Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=62371726da40fecb9485dd5ded860865bcec47e95873ca8abea30e0aa3ea7686",
+        "votos": 0,
+        "integrantes": [],
+        "parpo_id_int": 4
+      },
+      {
+        "cddto_codigo": "000",
+        "cddto_nombres": "NASRY JUAN ASFURA ZABLAH",
+        "cddto_apellidos": "",
+        "parpo_id": "0005",
+        "parpo_nombre": "PARTIDO NACIONAL DE HONDURAS",
+        "parpo_color": "#0077C8",
+        "parpo_link_logo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/Logos/Partidos/PARTIDONACIONALDEHONDURAS.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T210846Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=c0a84ab4391cc32ab2189a30da7acb967015d63e5f15e6ac98282dfcf353b845",
+        "cddto_link_logo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/Logos/Candidatos/000_0005.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251206T210846Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=b5688e27a81ea81b0df677db434293adcec1005b68a2e4081afd24c3aef65a0e",
+        "votos": 0,
+        "integrantes": [],
+        "parpo_id_int": 5
+      }
+    ]
+  },
+  "fetched_at": "2025-12-06 15:08:46"
+}
