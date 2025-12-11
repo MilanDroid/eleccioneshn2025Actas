@@ -1,0 +1,254 @@
+[
+  {
+    "file": "01/007/02/01-007-02-056-866.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/02/01-007-02-048-854.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/007/02/01-007-02-034-819.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/02/01-007-02-058-869.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/02/01-007-02-043-843.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/02/01-007-02-039-829.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/007/02/01-007-02-044-848.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/02/01-007-02-059-870.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/007/02/01-007-02-040-833.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/02/01-007-02-030-802.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/007/02/01-007-02-024-732.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/02/01-007-02-033-816.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/007/02/01-007-02-030-794.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/02/01-007-02-009-680.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/02/01-007-02-030-795.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/02/01-007-02-040-835.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/01/01-007-01-022-780.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/01/01-007-01-011-693.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/007/01/01-007-01-016-708.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/01/01-007-01-016-710.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/007/01/01-007-01-025-783.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/008/02/01-008-02-003-898.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/008/02/01-008-02-005-904.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/008/02/01-008-02-009-916.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/008/02/01-008-02-011-922.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/008/02/01-008-02-006-908.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/008/02/01-008-02-001-884.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/001/02/01-001-02-016-48.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/001/02/01-001-02-004-325.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/001/02/01-001-02-008-28.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/001/02/01-001-02-016-51.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/001/01/01-001-01-011-352.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/001/01/01-001-01-036-193.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/001/01/01-001-01-040-203.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/001/01/01-001-01-012-356.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/001/01/01-001-01-018-61.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/001/01/01-001-01-034-169.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/001/01/01-001-01-001-17.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/001/01/01-001-01-033-160.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/001/01/01-001-01-030-133.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/001/01/01-001-01-061-290.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/001/01/01-001-01-022-85.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/001/01/01-001-01-035-177.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/001/01/01-001-01-053-254.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/001/01/01-001-01-054-268.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/001/01/01-001-01-026-102.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/001/01/01-001-01-055-272.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/003/02/01-003-02-021-453.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/003/02/01-003-02-011-434.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/003/02/01-003-02-022-455.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/004/02/01-004-02-031-526.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/004/02/01-004-02-004-475.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/004/02/01-004-02-040-541.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/004/02/01-004-02-025-515.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/004/02/01-004-02-004-473.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/004/02/01-004-02-016-502.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/004/02/01-004-02-016-501.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/004/02/01-004-02-038-537.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/005/02/01-005-02-007-586.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/005/02/01-005-02-005-567.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/005/02/01-005-02-007-582.json",
+    "error": "Could not parse: Could not parse or fix JSON"
+  },
+  {
+    "file": "01/005/02/01-005-02-018-616.json",
+    "error": "'list' object is not a mapping"
+  },
+  {
+    "file": "01/005/01/01-005-01-001-548.json",
+    "error": "'list' object is not a mapping"
+  }
+]

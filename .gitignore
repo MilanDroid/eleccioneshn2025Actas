@@ -3,3 +3,11 @@
 actas_data/.git
 actas_data_transformed/.git
 measas_data/.git
+actas_organized
+actas
+utils
+venv
+actas_images
+jsons
+requeriments.txt
+tmp
