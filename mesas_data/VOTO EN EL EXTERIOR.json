@@ -1,0 +1,260 @@
+{
+  "ATLANTA": {
+    "007_ATLANTA- CONSULADO DE ATLANTAEN ESTADOS UNIDOS": [
+      {
+        "publicada": 1,
+        "numero": 19162,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200070100719162",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/20/2007191620041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070359Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=eb435e11592638c9a37539215e5ade9c99cb3cc763fd36b02526735cd35da17c",
+        "etiquetas": [
+          "Divulgada Correctamente",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      }
+    ]
+  },
+  "BOSTON": {
+    "013_BOSTON- CONSULADO DE BOSTONEN ESTADOS UNIDOS": [
+      {
+        "publicada": 1,
+        "numero": 19165,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200130101319165",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/20/013/01/013/E14_P01_20_013_001_00_013_19165_0000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070400Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=453c013dcaee4efbafcc5d4877c90299a91694497c0b2ed6e2b1219128d6ecad",
+        "etiquetas": [
+          "Divulgada Correctamente",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      }
+    ]
+  },
+  "CHARLOTTE": {
+    "015_CHARLOTTE- CONSULADO DE CHARLOTTEEN ESTADOS UNIDOS": [
+      {
+        "publicada": 1,
+        "numero": 19167,
+        "escrutado": true,
+        "digitalizado": 0,
+        "id_informacion_mesa_corporacion": "01200150101519167",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/20/2015191670041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070400Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=107ac5c14b0e3361bfbd1fa37372a9e7fae42942a7b203b0be7538f53be14ae7",
+        "etiquetas": [
+          "Inconsistencia",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": true
+      }
+    ]
+  },
+  "CHICAGO": {
+    "008_CHICAGO- CONSULADO DE CHICAGOEN ESTADOS UNIDOS": [
+      {
+        "publicada": 1,
+        "numero": 19163,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200080100819163",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/20/2008191630041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070400Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=e6632cf413a9aebe921ee27b263055203947349a12e8f4c19cf5389423f115b6",
+        "etiquetas": [
+          "Divulgada Correctamente",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      }
+    ]
+  },
+  "DALLAS": {
+    "009_DALLAS- CONSULADO DE DALLASEN ESTADOS UNIDOS": [
+      {
+        "publicada": 1,
+        "numero": 19164,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200090100919164",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/20/2009191640041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070401Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=91fa55bf9207b4778e3e32d8468cb7fcb8b73e4ab893caf02a1a3ea76c153def",
+        "etiquetas": [
+          "Divulgada Correctamente",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      }
+    ]
+  },
+  "HOUSTON": {
+    "001_HOUSTON- CONSULADO DE HOUSTON EN ESTADOS UNIDOS": [
+      {
+        "publicada": 1,
+        "numero": 19153,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200010100119153",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/20/2001191530041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070401Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=14dee02a2bf3bc90d2e2aa4c4dd462e96110eedbc6d89a4149d1abf3e745ff46",
+        "etiquetas": [
+          "Divulgada Correctamente",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      },
+      {
+        "publicada": 1,
+        "numero": 19154,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200010100119154",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/20/2001191540041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070401Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=58ac40fd690a4432e477f749d472981cbbd0bd3a670e4a4dee18eb0a1bfe8886",
+        "etiquetas": [
+          "Inconsistencia",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      }
+    ]
+  },
+  "LOS ANGELES": {
+    "002_LOS ANGELES- CONSULADO DE LOS ANGELESEN ESTADOS UNIDOS": [
+      {
+        "publicada": 1,
+        "numero": 19155,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200020100219155",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/20/2002191550041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070401Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=2a662b366f0fc3a8ccdb977e4ac4115b0ecc6b2a2759110ea9107f58a6dc1414",
+        "etiquetas": [
+          "Divulgada Correctamente",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      }
+    ]
+  },
+  "MIAMI": {
+    "003_MIAMI- CONSULADO DE MIAMI EN ESTADOS UNIDOS": [
+      {
+        "publicada": 1,
+        "numero": 19156,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200030100319156",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/20/2003191560041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070401Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=3aa77079a2e9d7a7836bb271fda5abd2b86d605d91e87573e7f261a3edab2d89",
+        "etiquetas": [
+          "Inconsistencia",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      },
+      {
+        "publicada": 1,
+        "numero": 19157,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200030100319157",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/ACTAS/20/2003191570041000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070401Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=36bb395ced3d5b42923682d4d43262de243a08aabb6c2f27f2bc182d71e703fe",
+        "etiquetas": [
+          "Divulgada Correctamente",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      }
+    ]
+  },
+  "NEW ORLEANS": {
+    "004_NEW ORLEANS- CONSULADO DE NEW ORLEANSEN ESTADOS UNIDOS": [
+      {
+        "publicada": 1,
+        "numero": 19158,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200040100419158",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/20/004/01/004/E14_P01_20_004_001_00_004_19158_0000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070402Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=38a15730e5d89e3c264aab12fd50a5e5c0bc244234916ef12a94dd85a36781bb",
+        "etiquetas": [
+          "Divulgada Correctamente",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      }
+    ]
+  },
+  "NEW YORK": {
+    "005_NEW YORK- CONSULADO DE NEW YORKEN ESTADOS UNIDOS": [
+      {
+        "publicada": 1,
+        "numero": 19159,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200050100519159",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/20/005/01/005/E14_P01_20_005_001_00_005_19159_0000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070402Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=5857f0c03cc0d6296268264d9ea75bf4e8036c20702e5095f2f09923359a9ece",
+        "etiquetas": [
+          "Inconsistencia",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      }
+    ]
+  },
+  "SAN FRANCISCO": {
+    "014_SAN FRANCISCO- CONSULADO DE SAN FRANCISCOEN ESTADOS UNIDOS": [
+      {
+        "publicada": 1,
+        "numero": 19166,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200140101419166",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/20/014/01/014/E14_P01_20_014_001_00_014_19166_0000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070402Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=1e127e41b9c195abc20fdf9f4edd30a11eb4c05a2f1a68dd145dd1e2c281ccae",
+        "etiquetas": [
+          "Inconsistencia",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      }
+    ]
+  },
+  "WASHINGTON": {
+    "006_WASHINGTON- CONSULADO DE WASHINGTONEN ESTADOS UNIDOS": [
+      {
+        "publicada": 1,
+        "numero": 19160,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200060100619160",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/20/006/01/006/E14_P01_20_006_001_00_006_19160_0000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070402Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=37a772e5f35f86657223e89d64bfc7d299ea053302397e98f2d6c318de77b325",
+        "etiquetas": [
+          "Inconsistencia",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      },
+      {
+        "publicada": 1,
+        "numero": 19161,
+        "escrutado": true,
+        "digitalizado": 1,
+        "id_informacion_mesa_corporacion": "01200060100619161",
+        "nombre_archivo": "https://elecciones-hnd-publicacion-prod-us-east-1.s3.us-east-1.amazonaws.com/E14/20/006/01/006/E14_P01_20_006_001_00_006_19161_0000.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIATNSYFO5EYDYMH46K%2F20251211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251211T070402Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=25b29125c52fdcfd26fd8592aac1c3725b6bc185167ddbe140a94770ad628bc1",
+        "etiquetas": [
+          "Inconsistencia",
+          "Pendiente de Revisión"
+        ],
+        "zona": "01",
+        "needs_download": false
+      }
+    ]
+  }
+}

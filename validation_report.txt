@@ -1,27 +1,16 @@
 ACTAS TRANSFORMATION VALIDATION REPORT
 ================================================================================
 
-Total files validated: 746
-Valid files: 723
-Files with other errors: 11
-Files with partido-only errors: 12
+Total files validated: 1408
+Valid files: 1262
+Files with other errors: 129
+Files with partido-only errors: 17
 Files with warnings: 0
 
 FILES WITH ERRORS (NON-PARTIDO DATA):
 ================================================================================
 
-File: 01/007/07/01-007-07-017-712.json
-  ERRORS:
-    - recibidas.n is empty
-    - recibidas.l is empty
-    - sobrantes.n is empty
-    - sobrantes.l is empty
-    - usadas.n is empty
-    - usadas.l is empty
-    - total_votantes.n is empty
-    - total_votantes.l is empty
-
-File: 01/007/07/01-007-07-030-793.json
+File: 816.json
   ERRORS:
     - recibidas.n is empty
     - recibidas.l is empty
@@ -48,17 +37,34 @@ File: 01/007/07/01-007-07-030-793.json
     - gran_total.n is empty
     - gran_total.l is empty
 
-File: 01/007/07/01-007-07-011-692.json
+File: 904.json
   ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
     - gran_total.n is empty
     - gran_total.l is empty
 
-File: 01/007/07/01-007-07-021-723.json
-  ERRORS:
-    - total_votantes.n is empty
-    - total_votantes.l is empty
-
-File: 01/007/07/01-007-07-001-653.json
+File: 1248.json
   ERRORS:
     - recibidas.n is empty
     - recibidas.l is empty
@@ -68,30 +74,1366 @@ File: 01/007/07/01-007-07-001-653.json
     - usadas.l is empty
     - total_votantes.n is empty
     - total_votantes.l is empty
-
-File: 01/001/01/01-001-01-029-123.json
-  ERRORS:
-    - recibidas.n is empty
-    - recibidas.l is empty
-    - sobrantes.n is empty
-    - sobrantes.l is empty
-    - usadas.n is empty
-    - usadas.l is empty
-    - total_votantes.n is empty
-    - total_votantes.l is empty
-
-File: 01/001/01/01-001-01-042-223.json
-  ERRORS:
-    - total_votantes.n is empty
-    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
     - partido_plh.n is empty
     - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1264.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1049.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 586.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 61.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 494.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1340.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 908.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1252.json
+  ERRORS:
+    - total_votantes.n is empty
+    - total_votantes.l is empty
     - en_blanco.n is empty
     - en_blanco.l is empty
     - gran_total.n is empty
     - gran_total.l is empty
 
-File: 01/001/01/01-001-01-042-222.json
+File: 898.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 123.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+
+File: 1415.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 708.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1414.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1394.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1117.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1140.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 732.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1357.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1091.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 17.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 548.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 616.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1336.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 987.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+
+File: 712.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+
+File: 102.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1160.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 723.json
+  ERRORS:
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+
+File: 51.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 975.json
+  ERRORS:
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 133.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 922.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1297.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 502.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 693.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 369.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 943.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 884.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 169.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 352.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1263.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+
+File: 942.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+
+File: 692.json
+  ERRORS:
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1166.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 780.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 515.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 866.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 85.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 870.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 775.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 325.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 473.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1411.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1283.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 28.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 936.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 222.json
   ERRORS:
     - recibidas.l is empty
     - sobrantes.l is empty
@@ -106,16 +1448,7 @@ File: 01/001/01/01-001-01-042-222.json
     - nulos.l is empty
     - gran_total.l is empty
 
-File: 01/003/03/01-003-03-008-428.json
-  ERRORS:
-    - en_blanco.n is empty
-    - en_blanco.l is empty
-    - nulos.n is empty
-    - nulos.l is empty
-    - gran_total.n is empty
-    - gran_total.l is empty
-
-File: 01/004/04/01-004-04-012-494.json
+File: 869.json
   ERRORS:
     - recibidas.n is empty
     - recibidas.l is empty
@@ -125,6 +1458,16 @@ File: 01/004/04/01-004-04-012-494.json
     - usadas.l is empty
     - total_votantes.n is empty
     - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
     - en_blanco.n is empty
     - en_blanco.l is empty
     - nulos.n is empty
@@ -132,7 +1475,1687 @@ File: 01/004/04/01-004-04-012-494.json
     - gran_total.n is empty
     - gran_total.l is empty
 
-File: 01/002/02/01-002-02-001-369.json
+File: 428.json
+  ERRORS:
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 582.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1364.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 193.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 941.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 916.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1165.json
+  ERRORS:
+    - usadas.n is empty
+    - usadas.l is empty
+
+File: 783.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 453.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1173.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 795.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 541.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1349.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 48.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 794.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 501.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 254.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 653.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+
+File: 1236.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 203.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 829.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1129.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 848.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1187.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 223.json
+  ERRORS:
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1056.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 833.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 537.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 864.json
+  ERRORS:
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1323.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 802.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1026.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 290.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 455.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 843.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 793.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1088.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 160.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 475.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1010.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 567.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 971.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 822.json
+  ERRORS:
+    - total_votantes.l is empty
+    - partido_dc.l is empty
+    - partido_libre.l is empty
+    - partido_pinu.l is empty
+    - partido_plh.l is empty
+    - partido_pnh.l is empty
+    - en_blanco.l is empty
+    - nulos.l is empty
+    - gran_total.l is empty
+
+File: 434.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1143.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 526.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1354.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1303.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1250.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 819.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 272.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1139.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 177.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 931.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1379.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+
+File: 1103.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 835.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1416.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1292.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 680.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 268.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 854.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1070.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 710.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 340.json
+  ERRORS:
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 356.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 1158.json
+  ERRORS:
+    - recibidas.n is empty
+    - recibidas.l is empty
+    - sobrantes.n is empty
+    - sobrantes.l is empty
+    - usadas.n is empty
+    - usadas.l is empty
+    - total_votantes.n is empty
+    - total_votantes.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+    - en_blanco.n is empty
+    - en_blanco.l is empty
+    - nulos.n is empty
+    - nulos.l is empty
+    - gran_total.n is empty
+    - gran_total.l is empty
+
+File: 881.json
   ERRORS:
     - recibidas.n is empty
     - recibidas.l is empty
@@ -162,70 +3185,95 @@ File: 01/002/02/01-002-02-001-369.json
 FILES WITH PARTIDO-ONLY ERRORS:
 ================================================================================
 
-File: 01/007/07/01-007-07-005-740.json
+File: 206.json
+  PARTIDO ERRORS:
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
+
+File: 762.json
   PARTIDO ERRORS:
     - partido_dc.n is empty
     - partido_dc.l is empty
 
-File: 01/007/07/01-007-07-005-741.json
+File: 559.json
   PARTIDO ERRORS:
-    - partido_pinu.n is empty
-    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
 
-File: 01/007/07/01-007-07-003-736.json
+File: 294.json
   PARTIDO ERRORS:
-    - partido_pinu.n is empty
-    - partido_pinu.l is empty
+    - partido_plh.n is empty
+    - partido_plh.l is empty
+    - partido_pnh.n is empty
+    - partido_pnh.l is empty
 
-File: 01/007/07/01-007-07-015-762.json
+File: 1131.json
   PARTIDO ERRORS:
     - partido_dc.n is empty
     - partido_dc.l is empty
 
-File: 01/007/07/01-007-07-030-796.json
+File: 796.json
   PARTIDO ERRORS:
     - partido_libre.n is empty
     - partido_libre.l is empty
     - partido_pnh.n is empty
     - partido_pnh.l is empty
 
-File: 01/001/01/01-001-01-061-294.json
-  PARTIDO ERRORS:
-    - partido_plh.n is empty
-    - partido_plh.l is empty
-    - partido_pnh.n is empty
-    - partido_pnh.l is empty
-
-File: 01/001/01/01-001-01-040-206.json
-  PARTIDO ERRORS:
-    - partido_plh.n is empty
-    - partido_plh.l is empty
-    - partido_pnh.n is empty
-    - partido_pnh.l is empty
-
-File: 01/003/03/01-003-03-005-422.json
-  PARTIDO ERRORS:
-    - partido_dc.n is empty
-    - partido_dc.l is empty
-
-File: 01/004/04/01-004-04-041-542.json
+File: 542.json
   PARTIDO ERRORS:
     - partido_libre.n is empty
     - partido_libre.l is empty
 
-File: 01/005/05/01-005-05-001-559.json
+File: 740.json
   PARTIDO ERRORS:
-    - partido_plh.n is empty
-    - partido_plh.l is empty
-    - partido_pnh.n is empty
-    - partido_pnh.l is empty
+    - partido_dc.n is empty
+    - partido_dc.l is empty
 
-File: 01/005/05/01-005-05-007-583.json
+File: 1132.json
+  PARTIDO ERRORS:
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+
+File: 741.json
   PARTIDO ERRORS:
     - partido_pinu.n is empty
     - partido_pinu.l is empty
 
-File: 01/002/02/01-002-02-004-383.json
+File: 583.json
+  PARTIDO ERRORS:
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+
+File: 736.json
+  PARTIDO ERRORS:
+    - partido_pinu.n is empty
+    - partido_pinu.l is empty
+
+File: 1381.json
+  PARTIDO ERRORS:
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+
+File: 422.json
+  PARTIDO ERRORS:
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+
+File: 1314.json
+  PARTIDO ERRORS:
+    - partido_libre.n is empty
+    - partido_libre.l is empty
+
+File: 1066.json
+  PARTIDO ERRORS:
+    - partido_dc.n is empty
+    - partido_dc.l is empty
+
+File: 383.json
   PARTIDO ERRORS:
     - partido_plh.n is empty
     - partido_plh.l is empty
